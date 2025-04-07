@@ -1,4 +1,4 @@
-# Top Tourist Destinations:))
+# Top Tourist Destinations :))
 Countries with the Most Tourists!
 
 This repository provides data on the top tourist destinations worldwide, based on the estimated number of international tourists per year. The data includes the most visited countries, sorted by the number of tourists they receive annually.
