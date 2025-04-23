@@ -1,6 +1,4 @@
-#top_tourist_destinations
-
-import pandas as pd
+# top_tourist_destinations
 
 # Data on top tourist destinations (estimated number of international tourists per year)
 data = {
