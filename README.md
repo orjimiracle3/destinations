@@ -10,7 +10,7 @@ The dataset includes the following columns:
 
 ### Top 10 Tourist Destinations:
 
-1. France - 89.4 million
+1. France - 89.5 million
 2. Spain - 83.7 million
 3. United States - 79.3 million
 4. China - 65.7 million
@@ -32,7 +32,7 @@ The script `top_tourist_destinations.py` performs the following tasks:
 ## Requirements
 
 - Python 3.x
-- pandas library
+- library pandas 
 
 To install the pandas library, use:
 ```bash
