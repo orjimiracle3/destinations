@@ -1,7 +1,6 @@
 # top_tourist_destinations
+# library
 import time
-import os
-
 
 # Data on top tourist destinations estimated number of international tourists per year
 soon = []
@@ -31,3 +30,4 @@ def main():
 # Run the main function
 if __name__ == "__main__":
     main()
+print(' ')    
