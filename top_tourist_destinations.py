@@ -1,6 +1,7 @@
 # top_tourist_destinations
 # library
 import time
+import random
 
 # Data on top tourist destinations estimated number of international tourists per year
 soon = []
