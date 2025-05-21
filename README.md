@@ -17,7 +17,7 @@ The dataset includes the following columns:
 5. Italy - 64.5 million
 6. Turkey - 51.2 million
 7. Mexico - 45.0 million
-8. Thailand - 39.8 million
+8. Thailand - 39.5 million
 9. Germany - 38.8 million
 10. United Kingdom - 36.3 million
 
