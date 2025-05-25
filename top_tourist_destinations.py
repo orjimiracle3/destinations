@@ -1,14 +1,17 @@
 # top_tourist_destinations
+
 # library
 import time
 import random
 
 # Data on top tourist destinations estimated number of international tourists per year
-soon = []
+soon = ['France']
+
 data = {
     'Countrys': ['France', 'Spain', 'United States', 'China', 'Italy', 'Turkey', 'Mexico', 'Thailand', 'Germany', 'United Kingdom'],
     'Tourists (Millions)': [89.4, 83.7, 79.3, 65.7, 64.5, 51.2, 45.0, 39.8, 38.8, 36.3]
 }
+
 print(data)
 
 # Create a DataFrame from the data
