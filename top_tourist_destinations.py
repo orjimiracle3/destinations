@@ -9,7 +9,7 @@ soon = ['France']
 print(soon)
 
 data = {
-    'Countrys': ['France', 'Spain', 'ISpain', 'United States', 'China', 'Italy', 'Turkey', 'Mexico', 'Thailand', 'Germany', 'United Kingdom'],
+    'Countrys': ['France', 'Spain', 'Spain', 'United States', 'China', 'Italy', 'Turkey', 'Mexico', 'Thailand', 'Germany', 'United Kingdom'],
     'Tourists (Millions)': [89.4, 83.7, 79.3, 65.7, 64.5, 51.2, 45.0, 39.8, 38.8, 36.3]
 }
 print(data)
